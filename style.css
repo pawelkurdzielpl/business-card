@@ -1,0 +1,14 @@
+body {
+    background: #940010;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.main {
+    background: #EBEBEB;
+    border-radius: 16px;
+    width: 624px;
+    margin: 50px;
+}
